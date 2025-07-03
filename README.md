@@ -34,7 +34,7 @@ Feel free to explore my work at [oludefiyinfoluwa.vercel.app](https://oludefiyin
 ## 📈 GitHub Stats
 
 ![Olude's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oludefiyinfoluwa06&show_icons=true&theme=radical)
-![Olude's Most used Languages](https://camo.githubusercontent.com/d55c503cd694af5c30d3aa931a875aa739752fc371495c7e06df7ded8e3ca410/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d657263794f7969776f6475266c61796f75743d636f6d70616374267468656d653d7261646963616c)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oludefiyinfoluwa06"/>
 
 ---
 
