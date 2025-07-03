@@ -33,7 +33,7 @@ Feel free to explore my work at [oludefiyinfoluwa.vercel.app](https://oludefiyin
 
 ## 📈 GitHub Stats
 
-![Olude's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oludefiyinfoluwa06&show_icons=true&theme=radical)
+![Olude's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oludefiyinfoluwa06&show_icons=true&theme=radical)
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oludefiyinfoluwa06"/>
 
