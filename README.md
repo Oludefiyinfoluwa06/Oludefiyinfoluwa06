@@ -2,11 +2,6 @@
 
 I’m a **Full Stack Web Developer** passionate about building scalable, performant, and user-friendly web applications. With experience spanning frontend frameworks, backend architectures, and database management, I love turning ideas into reality.
 
-## 🚀 About Me
-
-- 🔭 Currently working on a **dashboard system** for Auto Wash, Refreshments, and Games services.
-- 👯 Open to collaborating on exciting projects involving modern web technologies.
-
 ## 🛠️ Tech Stack
 
 ### Frontend
