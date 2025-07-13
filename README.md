@@ -31,7 +31,8 @@ Feel free to explore my work at [oludefiyinfoluwa.vercel.app](https://oludefiyin
 ![Olude's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oludefiyinfoluwa06&show_icons=true&theme=radical)
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oludefiyinfoluwa06&theme=radical&layout=compact"/>
-
+---
+([https://camo.githubusercontent.com/345d82f7dd0291494ccdcf3e0e65fb0a3d131abd1bad4541bc7c95048d50feb8/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d707261697365303032267468656d653d6d6174657269616c2d70616c656e69676874])
 ---
 
 > "Strive not to be a success, but rather to be of value."  
