@@ -34,7 +34,7 @@ Feel free to explore my work at [oludefiyinfoluwa.vercel.app](https://oludefiyin
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oludefiyinfoluwa06&theme=radical&layout=compact"/>
 
 ---
-![Stream Stats](https://stream-stats.demolab.com?user=Oludefiyinfoluwa06&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Oludefiyinfoluwa06&theme=radical)](https://git.io/streak-stats)
 
 ---
 
