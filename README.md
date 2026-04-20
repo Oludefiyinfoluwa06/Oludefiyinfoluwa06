@@ -23,7 +23,7 @@ Feel free to explore my work at [oludefiyinfoluwa.vercel.app](https://oludefiyin
 
 - **Email:** oludefiyinfoluwa06@gmail.com
 - **LinkedIn:** [linkedin.com/in/oludefiyinfoluwa](https://linkedin.com/in/oludefiyinfoluwa)
-- **Instagram:** [@timothyolude](https://www.instagram.com/timothyolude/)
+- **Instagram:** [@timothyolude](https://www.instagram.com/oludefiyinfoluwa06/)
 - **X:** [@OludeFiyin06](https://x.com/OludeFiyin06)
 
 ## 📈 GitHub Stats
