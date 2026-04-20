@@ -9,8 +9,8 @@ I’m a **Full Stack Web Developer** passionate about building scalable, perform
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS
 
 ### Backend
-- **Frameworks:** NestJS, Express.js, Laravel
-- **Database:** MongoDB (Mongoose), MySQL, SQLite
+- **Frameworks:** NestJS, Express.js
+- **Database:** MongoDB (Mongoose), PostgreSQL (Prisma)
 - **APIs:** RESTful APIs
 - **Authentication:** JWT, OAuth
 - **Email:** Gmail SMTP (Nodemailer)
