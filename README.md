@@ -17,7 +17,7 @@ I’m a **Full Stack Web Developer** passionate about building scalable, perform
 
 ## 🌐 Portfolio
 
-Feel free to explore my work at [oludefiyinfoluwa.vercel.app](https://oludefiyinfoluwa.vercel.app)
+Feel free to explore my work at [My Portfolio](https://oludefiyinfoluwa.vercel.app)
 
 ## 📫 Contact Me
 
